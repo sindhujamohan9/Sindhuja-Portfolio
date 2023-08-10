@@ -1343,7 +1343,7 @@ nav#navbar-main li {
 
 .navbar-default .navbar-brand {
 /*   text-transform: uppercase; */
-  font-weight: bold;
+/*   font-weight: bold; */
   font-size: 1.2em;
   color: #fff;
 }
