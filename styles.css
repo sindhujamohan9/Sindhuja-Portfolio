@@ -65,9 +65,10 @@ body {
  }
  .row1::after {
  content: "";
- clear: both;
- display: table;
- padding-left:100px;
+clear: both;
+display: table;
+padding-left: 100px;
+margin-bottom: 25px;
  }
  .thesis-outline{
  width:250px;
