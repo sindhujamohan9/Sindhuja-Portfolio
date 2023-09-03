@@ -465,10 +465,10 @@ a[data-fancybox] img {
 
 .left_nav_icons {
 height: 25px;
-display: block;
+/* display: block;
 margin-top: 15px;
 float: left;
-margin-right: 15px;
+margin-right: 15px; */
 }
 
 #profile .portrait {
